@@ -59,12 +59,3 @@ Web, mobil ve sunucu tarafında ölçeklenebilir, sade ve kullanıcı odaklı ç
 | [**BrainMapTR**](https://github.com/darlen02/BrainMapTR) | 81 il ve 2.430 sorudan oluşan, harita tabanlı interaktif Türkiye coğrafya bilgi yarışması. Çok oyunculu mod ve skor tablosu. | React · Redux · Firebase · D3 |
 | [**GuessX**](https://github.com/darlen02/guessx) · [Canlı](https://darlen02.github.io/guessx/) | Gizli sayıyı en az denemede bulmaya dayalı, canlı skor tablolu modern zeka oyunu. | React · Firebase |
 | [**Portföy**](https://github.com/darlen02/darlen02.github.io) · [Canlı](https://darlen02.github.io) | Kişisel portföy web sitesi. | React · Vite |
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=darlen02&show_icons=true&hide_border=true&bg_color=F7F9FC&title_color=4A6FA5&icon_color=6C8EBF&text_color=4B5563&locale=tr" alt="GitHub İstatistikleri" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlen02&layout=compact&hide_border=true&bg_color=F7F9FC&title_color=4A6FA5&text_color=4B5563&locale=tr" alt="En Çok Kullanılan Diller" />
-
-</div>
