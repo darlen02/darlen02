@@ -7,7 +7,7 @@
 Web, mobil ve sunucu tarafında ölçeklenebilir, sade ve kullanıcı odaklı çözümler geliştiriyorum.
 
 [![Portföy](https://img.shields.io/badge/Portföy-darlen02.github.io-4A6FA5?style=flat-square&logo=googlechrome&logoColor=white)](https://darlen02.github.io)
-[![E-posta](https://img.shields.io/badge/E--posta-İletişim-6C8EBF?style=flat-square&logo=gmail&logoColor=white)](mailto:hasanyaz6123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-darlen02-6C8EBF?style=flat-square&logo=github&logoColor=white)](https://github.com/darlen02)
 
 </div>
 
